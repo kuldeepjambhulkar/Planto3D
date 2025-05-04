@@ -22,7 +22,7 @@ Basically, **floor plan image to 3D interactive design in one click**
 
 ## How to Use
 
-1. Load this URL : []()
+1. Load this URL : [planto3d.netlify.app](https://planto3d.netlify.app/)
 2. Upload any floor plan image (preferably use the ones provided in the `ExampleFloorPlans` folder)
 3. Check 3D view for 3D design
 
