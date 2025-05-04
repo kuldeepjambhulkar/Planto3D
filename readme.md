@@ -1,5 +1,4 @@
 # Planto3D - Floor Plan to 3D Design
-planto3d.netlify.app
 
 This project is a web-based application that allows users to create and visualize floor plans in both 2D and 3D, **by uploading images of their 2D floor plans**. Users can add walls, upload floor plans, and interact with the design using drag-and-drop functionality. The application leverages Three.js for 3D rendering and provides a seamless experience for designing and visualizing spaces.
 
